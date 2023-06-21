@@ -1,3 +1,3 @@
 # power_48
 
-A new Flutter project.
+Une appli avec tout ce qu'il faut savoir a propos des 48 lois du pouvoir
