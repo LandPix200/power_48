@@ -1,6 +1,5 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:power_48/modules/data/articles.dart';
 import 'package:power_48/modules/data/model.dart';
 
@@ -105,72 +104,6 @@ class ArticleRow extends StatelessWidget {
   }
 }
 
-// class Carousel extends StatelessWidget {
-//   const Carousel({
-//     super.key,
-//   });
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return CarouselSlider(
-//       items: articles
-//           .map((e) => CarouselItem(
-//                 article: e,
-//               ))
-//           .toList(),
-//       options: CarouselOptions(
-//         height: 200,
-//         autoPlay: true,
-//         viewportFraction: 1,
-//         enlargeCenterPage: true,
-//       ),
-//     );
-//   }
-// }
-
-// class CarouselItem extends StatelessWidget {
-//   const CarouselItem({
-//     super.key,
-//     required this.article,
-//   });
-
-//   final Article article;
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Container(
-//       clipBehavior: Clip.hardEdge,
-//       margin: const EdgeInsets.only(top: 12),
-//       width: double.maxFinite,
-//       decoration: BoxDecoration(
-//         borderRadius: const BorderRadius.all(Radius.circular(15)),
-//         image: DecorationImage(
-//           fit: BoxFit.cover,
-//           image: NetworkImage(
-//             article.image,
-//           ),
-//         ),
-//       ),
-//       child: Column(
-//         mainAxisAlignment: MainAxisAlignment.end,
-//         crossAxisAlignment: CrossAxisAlignment.start,
-//         children: [
-//           Text(
-//             "     ${article.title}",
-//             style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-//                   color: Colors.white,
-//                   fontWeight: FontWeight.bold,
-//                 ),
-//           ),
-//           const SizedBox(
-//             height: 20,
-//           )
-//         ],
-//       ),
-//     );
-//   }
-// }
-
 class UpBar extends StatelessWidget {
   const UpBar({
     super.key,
@@ -179,24 +112,24 @@ class UpBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 0, vertical: 30),
+      padding: const EdgeInsets.only(bottom: 10, top: 25),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          const FaIcon(FontAwesomeIcons.bars),
+          // const FaIcon(FontAwesomeIcons.bars),
           Text(
             "Power 48",
             style: Theme.of(context).textTheme.headlineSmall?.copyWith(
                   fontWeight: FontWeight.bold,
                 ),
           ),
-          const Row(
-            children: [
-              FaIcon(
-                FontAwesomeIcons.magnifyingGlass,
-              ),
-            ],
-          ),
+          // const Row(
+          //   children: [
+          //     FaIcon(
+          //       FontAwesomeIcons.magnifyingGlass,
+          //     ),
+          //   ],
+          // ),
         ],
       ),
     );
