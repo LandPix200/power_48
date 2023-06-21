@@ -3,6 +3,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:power_48/modules/data/articles.dart';
 
 import '../data/model.dart';
+import '../data/store.dart';
 
 class ArticlePage extends StatelessWidget {
   const ArticlePage({super.key, required this.article});
@@ -16,11 +17,11 @@ class ArticlePage extends StatelessWidget {
         child: Column(
           children: [
             Container(
-              height: 200,
+              height: 400,
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: Image.network(
-                          "assets/images/lois/${articles.indexOf(article)}jpeg")
+                  image: Image.asset(
+                          "assets/images/lois/${articles.indexOf(article)}.jpeg")
                       .image,
                   fit: BoxFit.cover,
                 ),
@@ -70,7 +71,12 @@ class ArticlePage extends StatelessWidget {
                   ),
                   Text(
                     article.content,
-                  )
+                    style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                          color: Colors.black,
+                        ),
+                  ),
+                  const Divider(),
+                  BottomButtons(article: article),
                 ],
               ),
             ),
@@ -78,5 +84,48 @@ class ArticlePage extends StatelessWidget {
         ),
       ),
     );
+  }
+}
+
+class BottomButtons extends StatefulWidget {
+  const BottomButtons({super.key, required this.article});
+
+  final Article article;
+
+  @override
+  State<BottomButtons> createState() => _BottomButtonsState();
+}
+
+class _BottomButtonsState extends State<BottomButtons> {
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      children: [
+        MaterialButton(
+          color: Colors.grey.shade300,
+          onPressed: () {},
+          child: const Text("  ${"J'ai aimé"}"),
+        ),
+        MaterialButton(
+          color: Colors.grey.shade300,
+          onPressed: () {
+            _toggleFavorite();
+          },
+          child: Text(widget.article.inFavorite()
+              ? "  ${"Retirer des favoris"}"
+              : "  ${"Ajouter aux favoris"}"),
+        ),
+      ],
+    );
+  }
+
+  void _toggleFavorite() {
+    if (!widget.article.inFavorite()) {
+      Store().favorites.add(widget.article);
+    } else {
+      Store().favorites.remove(widget.article);
+    }
+    setState(() {});
   }
 }

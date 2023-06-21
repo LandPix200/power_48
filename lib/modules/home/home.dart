@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
           children: [
             const UpBar(),
             Text(
-              "Meilleures sélections",
+              "Les 48 lois du pouvoir",
               style: Theme.of(context).textTheme.headlineSmall,
             ),
             // const Carousel(),
@@ -60,6 +60,7 @@ class ArticleRow extends StatelessWidget {
         padding: const EdgeInsets.symmetric(vertical: 7),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.start,
+          // crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
               height: 100,
@@ -68,8 +69,8 @@ class ArticleRow extends StatelessWidget {
                 borderRadius: BorderRadius.circular(15),
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: Image.network(
-                          "assets/images/lois/${articles.indexOf(article)}jpeg")
+                  image: Image.asset(
+                          "assets/images/lois/${articles.indexOf(article)}.jpeg")
                       .image,
                 ),
               ),
@@ -77,23 +78,25 @@ class ArticleRow extends StatelessWidget {
             const SizedBox(
               width: 10,
             ),
-            Column(
-              mainAxisAlignment: MainAxisAlignment.start,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text("Loi ${articles.indexOf(article) + 1}"),
-                AutoSizeText(
-                  article.title,
-                  maxLines: 2,
-                  style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                        fontWeight: FontWeight.bold,
-                      ),
-                ),
-                AutoSizeText(
-                  "${article.content.substring(0, 100)}...",
-                  maxLines: 2,
-                ),
-              ],
+            Expanded(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text("Loi ${articles.indexOf(article) + 1}"),
+                  AutoSizeText(
+                    article.title,
+                    maxLines: 2,
+                    style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                          fontWeight: FontWeight.bold,
+                        ),
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  const Divider(),
+                ],
+              ),
             )
           ],
         ),

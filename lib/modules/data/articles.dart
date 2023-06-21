@@ -149,242 +149,242 @@ Cette loi s’applique à tous les domaines où il y a une relation de pouvoir :
 
 Un exemple d’application de cette loi est celui de Bill Gates, le fondateur de Microsoft. Il a su se montrer honnête, généreux et sincère en créant la fondation Bill & Melinda Gates, qui lutte contre la pauvreté, les maladies et l’injustice dans le monde. Il a su aussi éviter de l’être trop, trop souvent ou avec tout le monde en gardant une part de mystère, d’ambition et de compétitivité. Il a su ainsi créer une image positive, respectable et admirable.""",
   ),
-//   Article(
-//     title: "Demandez de l’aide, ne faites pas appel à la pitié",
-//     content:
-//         """La loi 13 des 48 lois du pouvoir est “demandez de l’aide, ne faites pas appel à la pitié”. Selon cette loi, il faut savoir solliciter, accepter et apprécier l’aide des autres, tout en évitant de les supplier, de les contraindre ou de les offenser. Il faut éviter de se laisser humilier, rejeter ou mépriser par les autres, qui sont souvent indifférents, cruels ou arrogants. Il faut plutôt se laisser aider, soutenir ou respecter par les autres, qui sont souvent bienveillants, généreux ou humbles.
+  Article(
+    title: "Demandez de l’aide, ne faites pas appel à la pitié",
+    content:
+        """La loi 13 des 48 lois du pouvoir est “demandez de l’aide, ne faites pas appel à la pitié”. Selon cette loi, il faut savoir solliciter, accepter et apprécier l’aide des autres, tout en évitant de les supplier, de les contraindre ou de les offenser. Il faut éviter de se laisser humilier, rejeter ou mépriser par les autres, qui sont souvent indifférents, cruels ou arrogants. Il faut plutôt se laisser aider, soutenir ou respecter par les autres, qui sont souvent bienveillants, généreux ou humbles.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de coopération, où il faut savoir donner, recevoir et partager. Celui qui fait appel à la pitié se rend faible, dépendant et pitoyable. Celui qui demande de l’aide se rend fort, autonome et respectable.
+Cette loi repose sur l’idée que le pouvoir est un jeu de coopération, où il faut savoir donner, recevoir et partager. Celui qui fait appel à la pitié se rend faible, dépendant et pitoyable. Celui qui demande de l’aide se rend fort, autonome et respectable.
 
-// Pour éviter ce piège, il faut savoir identifier ses besoins, ses ressources et ses objectifs. Il faut aussi savoir choisir les bonnes personnes, les bons moyens et les bons moments pour demander de l’aide. Il faut enfin savoir exprimer sa gratitude, sa reconnaissance et sa réciprocité envers ceux qui nous aident.
+Pour éviter ce piège, il faut savoir identifier ses besoins, ses ressources et ses objectifs. Il faut aussi savoir choisir les bonnes personnes, les bons moyens et les bons moments pour demander de l’aide. Il faut enfin savoir exprimer sa gratitude, sa reconnaissance et sa réciprocité envers ceux qui nous aident.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour améliorer sa situation, sa confiance ou sa relation avec les autres. Elle peut aussi être dangereuse si elle est utilisée sans sincérité ni respect.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour améliorer sa situation, sa confiance ou sa relation avec les autres. Elle peut aussi être dangereuse si elle est utilisée sans sincérité ni respect.
 
-// Un exemple d’application de cette loi est celui de Nelson Mandela, le leader du mouvement anti-apartheid en Afrique du Sud. Il a su solliciter, accepter et apprécier l’aide des autres pour lutter contre la discrimination raciale et instaurer la démocratie dans son pays. Il a su aussi éviter de les supplier, de les contraindre ou de les offenser en respectant leur liberté, leur dignité et leur diversité. Il a su ainsi créer un mouvement puissant, uni et pacifique.""",
-//   ),
-//   Article(
-//     title: "Faites-vous passer pour un ami, agissez en espion",
-//     content:
-//         """La loi 14 des 48 lois du pouvoir est “faites-vous passer pour un ami, agissez en espion”. Selon cette loi, il faut savoir se faire aimer, apprécier et respecter par les autres, tout en évitant de se faire haïr, mépriser ou craindre. Il faut éviter de se laisser dévoiler, manipuler ou trahir par les autres, qui sont souvent curieux, malins ou perfides. Il faut plutôt se laisser informer, influencer ou protéger par les autres, qui sont souvent naïfs, bêtes ou loyaux.
+Un exemple d’application de cette loi est celui de Nelson Mandela, le leader du mouvement anti-apartheid en Afrique du Sud. Il a su solliciter, accepter et apprécier l’aide des autres pour lutter contre la discrimination raciale et instaurer la démocratie dans son pays. Il a su aussi éviter de les supplier, de les contraindre ou de les offenser en respectant leur liberté, leur dignité et leur diversité. Il a su ainsi créer un mouvement puissant, uni et pacifique.""",
+  ),
+  Article(
+    title: "Faites-vous passer pour un ami, agissez en espion",
+    content:
+        """La loi 14 des 48 lois du pouvoir est “faites-vous passer pour un ami, agissez en espion”. Selon cette loi, il faut savoir se faire aimer, apprécier et respecter par les autres, tout en évitant de se faire haïr, mépriser ou craindre. Il faut éviter de se laisser dévoiler, manipuler ou trahir par les autres, qui sont souvent curieux, malins ou perfides. Il faut plutôt se laisser informer, influencer ou protéger par les autres, qui sont souvent naïfs, bêtes ou loyaux.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu d’espionnage, où il faut savoir collecter, analyser et utiliser les informations sur les autres. Celui qui se fait passer pour un ennemi se rend suspect, hostile et dangereux. Celui qui se fait passer pour un ami se rend discret, aimable et sûr.
+Cette loi repose sur l’idée que le pouvoir est un jeu d’espionnage, où il faut savoir collecter, analyser et utiliser les informations sur les autres. Celui qui se fait passer pour un ennemi se rend suspect, hostile et dangereux. Celui qui se fait passer pour un ami se rend discret, aimable et sûr.
 
-// Pour éviter ce piège, il faut savoir gagner la confiance, l’estime et l’amitié des autres. Il faut aussi savoir obtenir les renseignements, les secrets et les intentions des autres. Il faut enfin savoir exploiter les informations, les faiblesses et les opportunités des autres.
+Pour éviter ce piège, il faut savoir gagner la confiance, l’estime et l’amitié des autres. Il faut aussi savoir obtenir les renseignements, les secrets et les intentions des autres. Il faut enfin savoir exploiter les informations, les faiblesses et les opportunités des autres.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni loyauté.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni loyauté.
 
-// Un exemple d’application de cette loi est celui de Mata Hari, la célèbre espionne de la Première Guerre mondiale. Elle a su se faire aimer, apprécier et respecter par les hommes influents de son époque en tant que danseuse exotique et courtisane. Elle a su aussi éviter de se faire haïr, mépriser ou craindre en tant qu’espionne au service de plusieurs pays. Elle a su ainsi collecter, analyser et utiliser les informations sur les plans militaires, les alliances politiques et les intrigues diplomatiques.""",
-//   ),
-//   Article(
-//     title: "Ecrasez complètement l’ennemi",
-//     content:
-//         """La loi 15 des 48 lois du pouvoir est “écrasez complètement l’ennemi”. Selon cette loi, il faut savoir éliminer, neutraliser et détruire ses ennemis, tout en évitant de les laisser s’échapper, se venger ou se relever. Il faut éviter de se laisser menacer, attaquer ou dominer par ses ennemis, qui sont souvent rancuniers, cruels et implacables. Il faut plutôt se laisser respecter, craindre ou admirer par ses ennemis, qui sont souvent soumis, pacifiés ou éliminés.
+Un exemple d’application de cette loi est celui de Mata Hari, la célèbre espionne de la Première Guerre mondiale. Elle a su se faire aimer, apprécier et respecter par les hommes influents de son époque en tant que danseuse exotique et courtisane. Elle a su aussi éviter de se faire haïr, mépriser ou craindre en tant qu’espionne au service de plusieurs pays. Elle a su ainsi collecter, analyser et utiliser les informations sur les plans militaires, les alliances politiques et les intrigues diplomatiques.""",
+  ),
+  Article(
+    title: "Ecrasez complètement l’ennemi",
+    content:
+        """La loi 15 des 48 lois du pouvoir est “écrasez complètement l’ennemi”. Selon cette loi, il faut savoir éliminer, neutraliser et détruire ses ennemis, tout en évitant de les laisser s’échapper, se venger ou se relever. Il faut éviter de se laisser menacer, attaquer ou dominer par ses ennemis, qui sont souvent rancuniers, cruels et implacables. Il faut plutôt se laisser respecter, craindre ou admirer par ses ennemis, qui sont souvent soumis, pacifiés ou éliminés.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de guerre, où il faut savoir combattre, vaincre et dominer ses adversaires. Celui qui laisse vivre ses ennemis se rend vulnérable, faible et imprudent. Celui qui écrase complètement ses ennemis se rend invulnérable, fort et prudent.
+Cette loi repose sur l’idée que le pouvoir est un jeu de guerre, où il faut savoir combattre, vaincre et dominer ses adversaires. Celui qui laisse vivre ses ennemis se rend vulnérable, faible et imprudent. Celui qui écrase complètement ses ennemis se rend invulnérable, fort et prudent.
 
-// Pour éviter ce piège, il faut savoir identifier ses ennemis, leurs forces, leurs faiblesses et leurs intentions. Il faut aussi savoir les affronter, les vaincre ou les anéantir sans pitié ni remords. Il faut enfin savoir s’assurer qu’ils ne puissent plus nuire, se venger ou revenir.
+Pour éviter ce piège, il faut savoir identifier ses ennemis, leurs forces, leurs faiblesses et leurs intentions. Il faut aussi savoir les affronter, les vaincre ou les anéantir sans pitié ni remords. Il faut enfin savoir s’assurer qu’ils ne puissent plus nuire, se venger ou revenir.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa sécurité, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni humanité.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa sécurité, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni humanité.
 
-// Un exemple d’application de cette loi est celui de Jules César, le célèbre général et dictateur romain. Il a su éliminer, neutraliser et détruire ses ennemis politiques et militaires en menant des campagnes victorieuses contre les Gaulois, les Germains et les Égyptiens. Il a su aussi éviter de les laisser s’échapper, se venger ou se relever en les massacrant, les capturant ou les exécutant. Il a su ainsi créer un empire puissant, stable et prospère.""",
-//   ),
-//   Article(
-//     title: "Utilisez l’absence pour augmenter le respect et l’honneur",
-//     content:
-//         """La loi 16 des 48 lois du pouvoir est “utilisez l’absence pour augmenter le respect et l’honneur”. Selon cette loi, il faut savoir se faire rare, désirer et attendre, tout en évitant de se faire trop présent, trop disponible ou trop prévisible. Il faut éviter de se laisser oublier, négliger ou remplacer par les autres, qui sont souvent volages, indifférents ou infidèles. Il faut plutôt se laisser remarquer, apprécier ou regretter par les autres, qui sont souvent fidèles, attentifs ou nostalgiques.
+Un exemple d’application de cette loi est celui de Jules César, le célèbre général et dictateur romain. Il a su éliminer, neutraliser et détruire ses ennemis politiques et militaires en menant des campagnes victorieuses contre les Gaulois, les Germains et les Égyptiens. Il a su aussi éviter de les laisser s’échapper, se venger ou se relever en les massacrant, les capturant ou les exécutant. Il a su ainsi créer un empire puissant, stable et prospère.""",
+  ),
+  Article(
+    title: "Utilisez l’absence pour augmenter le respect et l’honneur",
+    content:
+        """La loi 16 des 48 lois du pouvoir est “utilisez l’absence pour augmenter le respect et l’honneur”. Selon cette loi, il faut savoir se faire rare, désirer et attendre, tout en évitant de se faire trop présent, trop disponible ou trop prévisible. Il faut éviter de se laisser oublier, négliger ou remplacer par les autres, qui sont souvent volages, indifférents ou infidèles. Il faut plutôt se laisser remarquer, apprécier ou regretter par les autres, qui sont souvent fidèles, attentifs ou nostalgiques.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de désir, où il faut savoir créer, maintenir et augmenter l’intérêt des autres. Celui qui est trop présent se rend banal, ennuyeux et insignifiant. Celui qui est absent se rend précieux, intéressant et important.
+Cette loi repose sur l’idée que le pouvoir est un jeu de désir, où il faut savoir créer, maintenir et augmenter l’intérêt des autres. Celui qui est trop présent se rend banal, ennuyeux et insignifiant. Celui qui est absent se rend précieux, intéressant et important.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour s’absenter. Il faut aussi savoir adapter son absence à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son absence à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour s’absenter. Il faut aussi savoir adapter son absence à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son absence à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans stratégie ni retour.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans stratégie ni retour.
 
-// Un exemple d’application de cette loi est celui de Léonard de Vinci, le célèbre artiste et savant italien. Il a su se faire rare, désirer et attendre en ne produisant que peu d’œuvres d’art, en les gardant longtemps ou en les emportant avec lui. Il a su aussi éviter de se faire trop présent, trop disponible ou trop prévisible en voyageant beaucoup, en changeant souvent de mécène ou en innovant constamment. Il a su ainsi créer un mystère, une fascination et une admiration autour de lui et de son génie.""",
-//   ),
-//   Article(
-//     title: "Cultivez l’insaisissable, soyez imprévisible",
-//     content:
-//         """La loi 17 des 48 lois du pouvoir est “cultivez l’insaisissable, soyez imprévisible”. Selon cette loi, il faut savoir changer, surprendre et intriguer les autres, tout en évitant de se répéter, de lasser ou de décevoir. Il faut éviter de se laisser deviner, anticiper ou contrôler par les autres, qui sont souvent curieux, malins ou perfides. Il faut plutôt se laisser désirer, admirer ou craindre par les autres, qui sont souvent naïfs, bêtes ou loyaux.
+Un exemple d’application de cette loi est celui de Léonard de Vinci, le célèbre artiste et savant italien. Il a su se faire rare, désirer et attendre en ne produisant que peu d’œuvres d’art, en les gardant longtemps ou en les emportant avec lui. Il a su aussi éviter de se faire trop présent, trop disponible ou trop prévisible en voyageant beaucoup, en changeant souvent de mécène ou en innovant constamment. Il a su ainsi créer un mystère, une fascination et une admiration autour de lui et de son génie.""",
+  ),
+  Article(
+    title: "Cultivez l’insaisissable, soyez imprévisible",
+    content:
+        """La loi 17 des 48 lois du pouvoir est “cultivez l’insaisissable, soyez imprévisible”. Selon cette loi, il faut savoir changer, surprendre et intriguer les autres, tout en évitant de se répéter, de lasser ou de décevoir. Il faut éviter de se laisser deviner, anticiper ou contrôler par les autres, qui sont souvent curieux, malins ou perfides. Il faut plutôt se laisser désirer, admirer ou craindre par les autres, qui sont souvent naïfs, bêtes ou loyaux.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de mystère, où il faut savoir créer, maintenir et augmenter l’intérêt des autres. Celui qui est trop prévisible se rend banal, ennuyeux et insignifiant. Celui qui est imprévisible se rend précieux, intéressant et important.
+Cette loi repose sur l’idée que le pouvoir est un jeu de mystère, où il faut savoir créer, maintenir et augmenter l’intérêt des autres. Celui qui est trop prévisible se rend banal, ennuyeux et insignifiant. Celui qui est imprévisible se rend précieux, intéressant et important.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour changer. Il faut aussi savoir adapter son changement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son changement à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour changer. Il faut aussi savoir adapter son changement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son changement à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans logique ni mesure.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans logique ni mesure.
 
-// Un exemple d’application de cette loi est celui de Madonna, la célèbre chanteuse et icône pop. Elle a su changer, surprendre et intriguer les autres en adoptant des styles musicaux, vestimentaires et capillaires différents au fil de sa carrière. Elle a su aussi éviter de se répéter, de lasser ou de décevoir en restant fidèle à son talent, à son message et à son public. Elle a su ainsi créer une image originale, innovante et remarquable.""",
-//   ),
-//   Article(
-//     title: "Ne vous isolez pas",
-//     content:
-//         """La loi 18 des 48 lois du pouvoir est “ne vous isolez pas”. Selon cette loi, il faut savoir se mêler, se lier et se faire aimer par les autres, tout en évitant de se renfermer, de se couper ou de se faire haïr. Il faut éviter de se laisser oublier, négliger ou remplacer par les autres, qui sont souvent volages, indifférents ou infidèles. Il faut plutôt se laisser remarquer, apprécier ou regretter par les autres, qui sont souvent fidèles, attentifs ou nostalgiques.
+Un exemple d’application de cette loi est celui de Madonna, la célèbre chanteuse et icône pop. Elle a su changer, surprendre et intriguer les autres en adoptant des styles musicaux, vestimentaires et capillaires différents au fil de sa carrière. Elle a su aussi éviter de se répéter, de lasser ou de décevoir en restant fidèle à son talent, à son message et à son public. Elle a su ainsi créer une image originale, innovante et remarquable.""",
+  ),
+  Article(
+    title: "Ne vous isolez pas",
+    content:
+        """La loi 18 des 48 lois du pouvoir est “ne vous isolez pas”. Selon cette loi, il faut savoir se mêler, se lier et se faire aimer par les autres, tout en évitant de se renfermer, de se couper ou de se faire haïr. Il faut éviter de se laisser oublier, négliger ou remplacer par les autres, qui sont souvent volages, indifférents ou infidèles. Il faut plutôt se laisser remarquer, apprécier ou regretter par les autres, qui sont souvent fidèles, attentifs ou nostalgiques.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de relation, où il faut savoir créer, maintenir et augmenter son réseau. Celui qui s’isole trop se rend seul, faible et vulnérable. Celui qui ne s’isole pas se rend entouré, fort et invulnérable.
+Cette loi repose sur l’idée que le pouvoir est un jeu de relation, où il faut savoir créer, maintenir et augmenter son réseau. Celui qui s’isole trop se rend seul, faible et vulnérable. Celui qui ne s’isole pas se rend entouré, fort et invulnérable.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour se mêler. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son implication à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour se mêler. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son implication à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans discernement ni prudence.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans discernement ni prudence.
 
-// Un exemple d’application de cette loi est celui de Barack Obama, le 44ème président des États-Unis. Il a su se mêler, se lier et se faire aimer par les autres en participant à de nombreux événements, en nouant des relations avec des personnalités diverses et en utilisant les réseaux sociaux. Il a su aussi éviter de se renfermer, de se couper ou de se faire haïr en restant accessible, ouvert et sympathique. Il a su ainsi créer une popularité, une confiance et un soutien sans précédent.""",
-//   ),
-//   Article(
-//     title: "sachez qui vous traitez, ne vous fiez pas aux apparences",
-//     content:
-//         """La loi 19 des 48 lois du pouvoir est “sachez qui vous traitez, ne vous fiez pas aux apparences”. Selon cette loi, il faut savoir observer, écouter et analyser les autres, tout en évitant de se fier aux apparences, aux paroles ou aux émotions. Il faut éviter de se laisser tromper, manipuler ou trahir par les autres, qui sont souvent hypocrites, menteurs ou perfides. Il faut plutôt se laisser informer, influencer ou protéger par les autres, qui sont souvent sincères, honnêtes ou loyaux.
+Un exemple d’application de cette loi est celui de Barack Obama, le 44ème président des États-Unis. Il a su se mêler, se lier et se faire aimer par les autres en participant à de nombreux événements, en nouant des relations avec des personnalités diverses et en utilisant les réseaux sociaux. Il a su aussi éviter de se renfermer, de se couper ou de se faire haïr en restant accessible, ouvert et sympathique. Il a su ainsi créer une popularité, une confiance et un soutien sans précédent.""",
+  ),
+  Article(
+    title: "Sachez qui vous traitez, ne vous fiez pas aux apparences",
+    content:
+        """La loi 19 des 48 lois du pouvoir est “sachez qui vous traitez, ne vous fiez pas aux apparences”. Selon cette loi, il faut savoir observer, écouter et analyser les autres, tout en évitant de se fier aux apparences, aux paroles ou aux émotions. Il faut éviter de se laisser tromper, manipuler ou trahir par les autres, qui sont souvent hypocrites, menteurs ou perfides. Il faut plutôt se laisser informer, influencer ou protéger par les autres, qui sont souvent sincères, honnêtes ou loyaux.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu d’information, où il faut savoir collecter, traiter et utiliser les données sur les autres. Celui qui se fie aux apparences se rend naïf, faible et vulnérable. Celui qui sait qui il traite se rend malin, fort et invulnérable.
+Cette loi repose sur l’idée que le pouvoir est un jeu d’information, où il faut savoir collecter, traiter et utiliser les données sur les autres. Celui qui se fie aux apparences se rend naïf, faible et vulnérable. Celui qui sait qui il traite se rend malin, fort et invulnérable.
 
-// Pour éviter ce piège, il faut savoir poser des questions, provoquer des réactions ou créer des situations pour révéler le caractère, les motivations ou les secrets des autres. Il faut aussi savoir interpréter les signes, les gestes ou les paroles pour comprendre les besoins, les désirs ou les peurs des autres. Il faut enfin savoir contrôler son langage, son expression ou son comportement pour dissimuler ses plans, ses sentiments ou ses doutes.
+Pour éviter ce piège, il faut savoir poser des questions, provoquer des réactions ou créer des situations pour révéler le caractère, les motivations ou les secrets des autres. Il faut aussi savoir interpréter les signes, les gestes ou les paroles pour comprendre les besoins, les désirs ou les peurs des autres. Il faut enfin savoir contrôler son langage, son expression ou son comportement pour dissimuler ses plans, ses sentiments ou ses doutes.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa confiance, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni empathie.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa confiance, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni empathie.
 
-// Un exemple d’application de cette loi est celui de Sherlock Holmes, le célèbre détective privé créé par Arthur Conan Doyle. Il a su observer, écouter et analyser les autres en utilisant sa logique, son intuition et sa déduction. Il a su aussi éviter de se fier aux apparences, aux paroles ou aux émotions en utilisant son scepticisme, son ironie et son observation. Il a su ainsi résoudre des énigmes, démasquer des criminels et aider des innocents.""",
-//   ),
-//   Article(
-//     title: "Ne vous engagez pas",
-//     content:
-//         """La loi 20 des 48 lois du pouvoir est “ne vous engagez pas”. Selon cette loi, il faut savoir rester libre, flexible et indépendant, tout en évitant de se lier, de se fixer ou de se dépendre. Il faut éviter de se laisser enfermer, contraindre ou dominer par les autres, qui sont souvent exigeants, changeants ou tyranniques. Il faut plutôt se laisser ouvrir, adapter ou diriger par les autres, qui sont souvent conciliants, constants ou respectueux.
+Un exemple d’application de cette loi est celui de Sherlock Holmes, le célèbre détective privé créé par Arthur Conan Doyle. Il a su observer, écouter et analyser les autres en utilisant sa logique, son intuition et sa déduction. Il a su aussi éviter de se fier aux apparences, aux paroles ou aux émotions en utilisant son scepticisme, son ironie et son observation. Il a su ainsi résoudre des énigmes, démasquer des criminels et aider des innocents.""",
+  ),
+  Article(
+    title: "Ne vous engagez pas",
+    content:
+        """La loi 20 des 48 lois du pouvoir est “ne vous engagez pas”. Selon cette loi, il faut savoir rester libre, flexible et indépendant, tout en évitant de se lier, de se fixer ou de se dépendre. Il faut éviter de se laisser enfermer, contraindre ou dominer par les autres, qui sont souvent exigeants, changeants ou tyranniques. Il faut plutôt se laisser ouvrir, adapter ou diriger par les autres, qui sont souvent conciliants, constants ou respectueux.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de liberté, où il faut savoir créer, maintenir et augmenter son espace. Celui qui s’engage trop se rend prisonnier, rigide et impuissant. Celui qui ne s’engage pas se rend maître, souple et puissant.
+Cette loi repose sur l’idée que le pouvoir est un jeu de liberté, où il faut savoir créer, maintenir et augmenter son espace. Celui qui s’engage trop se rend prisonnier, rigide et impuissant. Celui qui ne s’engage pas se rend maître, souple et puissant.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour s’engager. Il faut aussi savoir adapter son engagement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son engagement à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour s’engager. Il faut aussi savoir adapter son engagement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son engagement à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans équité ni loyauté.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans équité ni loyauté.
 
-// Un exemple d’application de cette loi est celui de Bruce Lee, le célèbre acteur et maître d’arts martiaux. Il a su rester libre, flexible et indépendant en créant son propre style de combat, le Jeet Kune Do, qui ne suit aucun dogme ni aucune règle. Il a su aussi éviter de se lier, de se fixer ou de se dépendre en refusant les contrats, les conventions ou les obligations qui auraient limité sa créativité, sa liberté ou sa dignité. Il a su ainsi créer une légende, une philosophie et une influence sans précédent.""",
-//   ),
-//   Article(
-//     title:
-//         "Jouez les imbéciles pour attraper les imbéciles, faites semblant de ne pas savoir",
-//     content:
-//         """La loi 21 des 48 lois du pouvoir est “jouez les imbéciles pour attraper les imbéciles, faites semblant de ne pas savoir”. Selon cette loi, il faut savoir se faire passer pour plus bête, plus ignorant ou plus naïf que les autres, tout en évitant de se faire passer pour plus intelligent, plus savant ou plus malin. Il faut éviter de se laisser intimider, mépriser ou dominer par les autres, qui sont souvent arrogants, prétentieux ou tyranniques. Il faut plutôt se laisser informer, influencer ou protéger par les autres, qui sont souvent modestes, généreux ou respectueux.
+Un exemple d’application de cette loi est celui de Bruce Lee, le célèbre acteur et maître d’arts martiaux. Il a su rester libre, flexible et indépendant en créant son propre style de combat, le Jeet Kune Do, qui ne suit aucun dogme ni aucune règle. Il a su aussi éviter de se lier, de se fixer ou de se dépendre en refusant les contrats, les conventions ou les obligations qui auraient limité sa créativité, sa liberté ou sa dignité. Il a su ainsi créer une légende, une philosophie et une influence sans précédent.""",
+  ),
+  Article(
+    title:
+        "Jouez les imbéciles pour attraper les imbéciles, faites semblant de ne pas savoir",
+    content:
+        """La loi 21 des 48 lois du pouvoir est “jouez les imbéciles pour attraper les imbéciles, faites semblant de ne pas savoir”. Selon cette loi, il faut savoir se faire passer pour plus bête, plus ignorant ou plus naïf que les autres, tout en évitant de se faire passer pour plus intelligent, plus savant ou plus malin. Il faut éviter de se laisser intimider, mépriser ou dominer par les autres, qui sont souvent arrogants, prétentieux ou tyranniques. Il faut plutôt se laisser informer, influencer ou protéger par les autres, qui sont souvent modestes, généreux ou respectueux.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de ruse, où il faut savoir tromper, manipuler et dominer les autres. Celui qui se fait passer pour plus intelligent se rend arrogant, ennuyeux et dangereux. Celui qui se fait passer pour plus bête se rend humble, intéressant et sûr.
+Cette loi repose sur l’idée que le pouvoir est un jeu de ruse, où il faut savoir tromper, manipuler et dominer les autres. Celui qui se fait passer pour plus intelligent se rend arrogant, ennuyeux et dangereux. Celui qui se fait passer pour plus bête se rend humble, intéressant et sûr.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour se faire passer pour plus bête. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son imposture à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour se faire passer pour plus bête. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son imposture à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni honnêteté.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni honnêteté.
 
-// Un exemple d’application de cette loi est celui de Socrate, le célèbre philosophe grec. Il a su se faire passer pour plus bête, plus ignorant ou plus naïf que les autres en utilisant la méthode de la maïeutique, qui consiste à poser des questions simples et innocentes pour amener son interlocuteur à révéler ses contradictions, ses erreurs ou ses ignorances. Il a su aussi éviter de se faire passer pour plus intelligent, plus savant ou plus malin en reconnaissant son ignorance et en respectant son interlocuteur. Il a su ainsi créer une dialectique, une pédagogie et une sagesse sans égal.""",
-//   ),
-//   Article(
-//     title:
-//         "Utilisez la tactique de la reddition, transformez la faiblesse en puissance",
-//     content:
-//         """La loi 22 des 48 lois du pouvoir est “utilisez la tactique de la reddition, transformez la faiblesse en puissance”. Selon cette loi, il faut savoir se rendre, se soumettre ou se retirer face à un adversaire plus fort, plus puissant ou plus dangereux, tout en évitant de résister, de combattre ou de s’entêter. Il faut éviter de se laisser blesser, vaincre ou détruire par les autres, qui sont souvent impitoyables, cruels ou implacables. Il faut plutôt se laisser épargner, respecter ou admirer par les autres, qui sont souvent cléments, généreux ou humbles.
+Un exemple d’application de cette loi est celui de Socrate, le célèbre philosophe grec. Il a su se faire passer pour plus bête, plus ignorant ou plus naïf que les autres en utilisant la méthode de la maïeutique, qui consiste à poser des questions simples et innocentes pour amener son interlocuteur à révéler ses contradictions, ses erreurs ou ses ignorances. Il a su aussi éviter de se faire passer pour plus intelligent, plus savant ou plus malin en reconnaissant son ignorance et en respectant son interlocuteur. Il a su ainsi créer une dialectique, une pédagogie et une sagesse sans égal.""",
+  ),
+  Article(
+    title:
+        "Utilisez la tactique de la reddition, transformez la faiblesse en puissance",
+    content:
+        """La loi 22 des 48 lois du pouvoir est “utilisez la tactique de la reddition, transformez la faiblesse en puissance”. Selon cette loi, il faut savoir se rendre, se soumettre ou se retirer face à un adversaire plus fort, plus puissant ou plus dangereux, tout en évitant de résister, de combattre ou de s’entêter. Il faut éviter de se laisser blesser, vaincre ou détruire par les autres, qui sont souvent impitoyables, cruels ou implacables. Il faut plutôt se laisser épargner, respecter ou admirer par les autres, qui sont souvent cléments, généreux ou humbles.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de stratégie, où il faut savoir choisir ses batailles, ses alliés et ses ennemis. Celui qui résiste trop se rend têtu, orgueilleux et imprudent. Celui qui se rend se rend sage, humble et prudent.
+Cette loi repose sur l’idée que le pouvoir est un jeu de stratégie, où il faut savoir choisir ses batailles, ses alliés et ses ennemis. Celui qui résiste trop se rend têtu, orgueilleux et imprudent. Celui qui se rend se rend sage, humble et prudent.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour se rendre. Il faut aussi savoir adapter sa reddition à la situation, au public et à l’objectif. Il faut enfin savoir mesurer sa reddition à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et la bonne durée pour se rendre. Il faut aussi savoir adapter sa reddition à la situation, au public et à l’objectif. Il faut enfin savoir mesurer sa reddition à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans sincérité ni loyauté.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans sincérité ni loyauté.
 
-// Un exemple d’application de cette loi est celui de Gandhi, le leader du mouvement indépendantiste indien. Il a su se rendre, se soumettre ou se retirer face aux autorités coloniales britanniques, qui étaient plus fortes, plus puissantes et plus dangereuses que lui et son peuple. Il a su aussi éviter de résister, de combattre ou de s’entêter en utilisant la méthode de la non-violence, qui consiste à refuser la coopération, la soumission ou la violence. Il a su ainsi créer un mouvement pacifique, puissant et respecté.""",
-//   ),
-//   Article(
-//     title: "Concentrez vos forces",
-//     content:
-//         """La loi 23 des 48 lois du pouvoir est “concentrez vos forces”. Selon cette loi, il faut savoir concentrer ses ressources, ses efforts et son attention sur un objectif précis, clair et important, tout en évitant de les disperser, de les gaspiller ou de les distraire. Il faut éviter de se laisser déborder, épuiser ou échouer par les autres, qui sont souvent nombreux, exigeants ou compétitifs. Il faut plutôt se laisser réussir, économiser ou dominer par les autres, qui sont souvent rares, conciliants ou coopératifs.
+Un exemple d’application de cette loi est celui de Gandhi, le leader du mouvement indépendantiste indien. Il a su se rendre, se soumettre ou se retirer face aux autorités coloniales britanniques, qui étaient plus fortes, plus puissantes et plus dangereuses que lui et son peuple. Il a su aussi éviter de résister, de combattre ou de s’entêter en utilisant la méthode de la non-violence, qui consiste à refuser la coopération, la soumission ou la violence. Il a su ainsi créer un mouvement pacifique, puissant et respecté.""",
+  ),
+  Article(
+    title: "Concentrez vos forces",
+    content:
+        """La loi 23 des 48 lois du pouvoir est “concentrez vos forces”. Selon cette loi, il faut savoir concentrer ses ressources, ses efforts et son attention sur un objectif précis, clair et important, tout en évitant de les disperser, de les gaspiller ou de les distraire. Il faut éviter de se laisser déborder, épuiser ou échouer par les autres, qui sont souvent nombreux, exigeants ou compétitifs. Il faut plutôt se laisser réussir, économiser ou dominer par les autres, qui sont souvent rares, conciliants ou coopératifs.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu d’efficacité, où il faut savoir faire plus avec moins. Celui qui disperse ses forces se rend faible, inefficace et vulnérable. Celui qui concentre ses forces se rend fort, efficace et invulnérable.
+Cette loi repose sur l’idée que le pouvoir est un jeu d’efficacité, où il faut savoir faire plus avec moins. Celui qui disperse ses forces se rend faible, inefficace et vulnérable. Celui qui concentre ses forces se rend fort, efficace et invulnérable.
 
-// Pour éviter ce piège, il faut savoir choisir le bon objectif, le bon moyen et le bon moment pour concentrer ses forces. Il faut aussi savoir adapter sa concentration à la situation, au public et à l’objectif. Il faut enfin savoir mesurer sa concentration à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon objectif, le bon moyen et le bon moment pour concentrer ses forces. Il faut aussi savoir adapter sa concentration à la situation, au public et à l’objectif. Il faut enfin savoir mesurer sa concentration à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans réflexion ni mesure.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans réflexion ni mesure.
 
-// Un exemple d’application de cette loi est celui de Steve Jobs, le fondateur d’Apple. Il a su concentrer ses ressources, ses efforts et son attention sur la création de produits révolutionnaires comme l’iPhone ou l’iPad. Il a su aussi éviter de les disperser, de les gaspiller ou de les distraire en éliminant les projets secondaires, les dépenses inutiles ou les distractions nuisibles. Il a su ainsi créer une entreprise puissante, innovante et rentable.""",
-//   ),
-//   Article(
-//     title: "Jouez le parfait courtisan",
-//     content:
-//         """La loi 24 des 48 lois du pouvoir est “jouez le parfait courtisan”. Selon cette loi, il faut savoir se faire apprécier, respecter et admirer par les personnes puissantes, influentes ou importantes, tout en évitant de les offenser, de les défier ou de les menacer. Il faut éviter de se laisser mépriser, ignorer ou éliminer par les autres, qui sont souvent jaloux, hostiles ou perfides. Il faut plutôt se laisser valoriser, écouter ou protéger par les autres, qui sont souvent bienveillants, amicaux ou loyaux.
+Un exemple d’application de cette loi est celui de Steve Jobs, le fondateur d’Apple. Il a su concentrer ses ressources, ses efforts et son attention sur la création de produits révolutionnaires comme l’iPhone ou l’iPad. Il a su aussi éviter de les disperser, de les gaspiller ou de les distraire en éliminant les projets secondaires, les dépenses inutiles ou les distractions nuisibles. Il a su ainsi créer une entreprise puissante, innovante et rentable.""",
+  ),
+  Article(
+    title: "Jouez le parfait courtisan",
+    content:
+        """La loi 24 des 48 lois du pouvoir est “jouez le parfait courtisan”. Selon cette loi, il faut savoir se faire apprécier, respecter et admirer par les personnes puissantes, influentes ou importantes, tout en évitant de les offenser, de les défier ou de les menacer. Il faut éviter de se laisser mépriser, ignorer ou éliminer par les autres, qui sont souvent jaloux, hostiles ou perfides. Il faut plutôt se laisser valoriser, écouter ou protéger par les autres, qui sont souvent bienveillants, amicaux ou loyaux.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de cour, où il faut savoir plaire, servir et flatter les maîtres. Celui qui joue mal le courtisan se rend impoli, insolent et dangereux. Celui qui joue bien le courtisan se rend poli, respectueux et sûr.
+Cette loi repose sur l’idée que le pouvoir est un jeu de cour, où il faut savoir plaire, servir et flatter les maîtres. Celui qui joue mal le courtisan se rend impoli, insolent et dangereux. Celui qui joue bien le courtisan se rend poli, respectueux et sûr.
 
-// Pour éviter ce piège, il faut savoir choisir le bon maître, le bon moyen et le bon moment pour jouer le courtisan. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son jeu à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon maître, le bon moyen et le bon moment pour jouer le courtisan. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son jeu à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni dignité.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni dignité.
 
-// Un exemple d’application de cette loi est celui de Nicolas Machiavel, le célèbre écrivain et diplomate italien. Il a su se faire apprécier, respecter et admirer par les personnes puissantes, influentes ou importantes de son époque en leur offrant ses services, ses conseils ou ses écrits. Il a su aussi éviter de les offenser, de les défier ou de les menacer en leur témoignant de la loyauté, de la prudence ou de la flatterie. Il a su ainsi créer une réputation, une confiance et une influence sans égal.""",
-//   ),
-//   Article(
-//     title: "Recréez-vous",
-//     content:
-//         """La loi 25 des 48 lois du pouvoir est “recréez-vous”. Selon cette loi, il faut savoir se réinventer, se transformer et se différencier, tout en évitant de se conformer, de se répéter ou de se banaliser. Il faut éviter de se laisser enfermer, limiter ou définir par les autres, qui sont souvent conformistes, routiniers ou étroits d’esprit. Il faut plutôt se laisser libérer, élargir ou redéfinir par soi-même, qui est souvent original, créatif ou ouvert d’esprit.
+Un exemple d’application de cette loi est celui de Nicolas Machiavel, le célèbre écrivain et diplomate italien. Il a su se faire apprécier, respecter et admirer par les personnes puissantes, influentes ou importantes de son époque en leur offrant ses services, ses conseils ou ses écrits. Il a su aussi éviter de les offenser, de les défier ou de les menacer en leur témoignant de la loyauté, de la prudence ou de la flatterie. Il a su ainsi créer une réputation, une confiance et une influence sans égal.""",
+  ),
+  Article(
+    title: "Recréez-vous",
+    content:
+        """La loi 25 des 48 lois du pouvoir est “recréez-vous”. Selon cette loi, il faut savoir se réinventer, se transformer et se différencier, tout en évitant de se conformer, de se répéter ou de se banaliser. Il faut éviter de se laisser enfermer, limiter ou définir par les autres, qui sont souvent conformistes, routiniers ou étroits d’esprit. Il faut plutôt se laisser libérer, élargir ou redéfinir par soi-même, qui est souvent original, créatif ou ouvert d’esprit.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de création, où il faut savoir créer, maintenir et augmenter son identité. Celui qui se conforme trop se rend fade, ennuyeux et insignifiant. Celui qui se recrée se rend unique, intéressant et important.
+Cette loi repose sur l’idée que le pouvoir est un jeu de création, où il faut savoir créer, maintenir et augmenter son identité. Celui qui se conforme trop se rend fade, ennuyeux et insignifiant. Celui qui se recrée se rend unique, intéressant et important.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour se recréer. Il faut aussi savoir adapter sa transformation à la situation, au public et à l’objectif. Il faut enfin savoir mesurer sa transformation à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour se recréer. Il faut aussi savoir adapter sa transformation à la situation, au public et à l’objectif. Il faut enfin savoir mesurer sa transformation à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans logique ni mesure.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans logique ni mesure.
 
-// Un exemple d’application de cette loi est celui de David Bowie, le célèbre chanteur et icône pop. Il a su se réinventer, se transformer et se différencier en adoptant des personnalités musicales, vestimentaires et capillaires différentes au fil de sa carrière. Il a su aussi éviter de se conformer, de se répéter ou de se banaliser en restant fidèle à son talent, à son message et à son public. Il a su ainsi créer une image originale, innovante et remarquable.""",
-//   ),
-//   Article(
-//     title: "Gardez les mains propres",
-//     content:
-//         """La loi 26 des 48 lois du pouvoir est “gardez les mains propres”. Selon cette loi, il faut savoir se faire passer pour innocent, honnête et vertueux, tout en évitant de se faire passer pour coupable, malhonnête ou vicieux. Il faut éviter de se laisser accuser, condamner ou punir par les autres, qui sont souvent méfiants, moralisateurs ou vengeurs. Il faut plutôt se laisser louer, absoudre ou récompenser par les autres, qui sont souvent crédules, indulgents ou admiratifs.
+Un exemple d’application de cette loi est celui de David Bowie, le célèbre chanteur et icône pop. Il a su se réinventer, se transformer et se différencier en adoptant des personnalités musicales, vestimentaires et capillaires différentes au fil de sa carrière. Il a su aussi éviter de se conformer, de se répéter ou de se banaliser en restant fidèle à son talent, à son message et à son public. Il a su ainsi créer une image originale, innovante et remarquable.""",
+  ),
+  Article(
+    title: "Gardez les mains propres",
+    content:
+        """La loi 26 des 48 lois du pouvoir est “gardez les mains propres”. Selon cette loi, il faut savoir se faire passer pour innocent, honnête et vertueux, tout en évitant de se faire passer pour coupable, malhonnête ou vicieux. Il faut éviter de se laisser accuser, condamner ou punir par les autres, qui sont souvent méfiants, moralisateurs ou vengeurs. Il faut plutôt se laisser louer, absoudre ou récompenser par les autres, qui sont souvent crédules, indulgents ou admiratifs.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu d’apparence, où il faut savoir tromper, manipuler et dominer les autres. Celui qui se fait passer pour coupable se rend haïssable, méprisable et dangereux. Celui qui se fait passer pour innocent se rend aimable, respectable et sûr.
+Cette loi repose sur l’idée que le pouvoir est un jeu d’apparence, où il faut savoir tromper, manipuler et dominer les autres. Celui qui se fait passer pour coupable se rend haïssable, méprisable et dangereux. Celui qui se fait passer pour innocent se rend aimable, respectable et sûr.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour se faire passer pour innocent. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son imposture à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour se faire passer pour innocent. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son imposture à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni honnêteté.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans éthique ni honnêteté.
 
-// Un exemple d’application de cette loi est celui de Joseph Fouché, le célèbre homme politique français. Il a su se faire passer pour innocent, honnête et vertueux en se présentant comme un défenseur de la liberté, de l’égalité et de la fraternité. Il a su aussi éviter de se faire passer pour coupable, malhonnête ou vicieux en utilisant des intermédiaires, des complices ou des boucs émissaires pour mener ses intrigues, ses trahisons ou ses crimes. Il a su ainsi créer une image positive, crédible et intouchable.""",
-//   ),
-//   Article(
-//     title: "Créez une cour de spectateurs",
-//     content:
-//         """La loi 27 des 48 lois du pouvoir est “créez une cour de spectateurs”. Selon cette loi, il faut savoir se faire entourer, soutenir et admirer par des personnes fidèles, dévouées ou enthousiastes, tout en évitant de se faire isoler, critiquer ou mépriser par des personnes hostiles, indifférentes ou ennuyeuses. Il faut éviter de se laisser ignorer, négliger ou remplacer par les autres, qui sont souvent volages, indifférents ou infidèles. Il faut plutôt se laisser remarquer, apprécier ou regretter par les autres, qui sont souvent fidèles, attentifs ou nostalgiques.
+Un exemple d’application de cette loi est celui de Joseph Fouché, le célèbre homme politique français. Il a su se faire passer pour innocent, honnête et vertueux en se présentant comme un défenseur de la liberté, de l’égalité et de la fraternité. Il a su aussi éviter de se faire passer pour coupable, malhonnête ou vicieux en utilisant des intermédiaires, des complices ou des boucs émissaires pour mener ses intrigues, ses trahisons ou ses crimes. Il a su ainsi créer une image positive, crédible et intouchable.""",
+  ),
+  Article(
+    title: "Créez une cour de spectateurs",
+    content:
+        """La loi 27 des 48 lois du pouvoir est “créez une cour de spectateurs”. Selon cette loi, il faut savoir se faire entourer, soutenir et admirer par des personnes fidèles, dévouées ou enthousiastes, tout en évitant de se faire isoler, critiquer ou mépriser par des personnes hostiles, indifférentes ou ennuyeuses. Il faut éviter de se laisser ignorer, négliger ou remplacer par les autres, qui sont souvent volages, indifférents ou infidèles. Il faut plutôt se laisser remarquer, apprécier ou regretter par les autres, qui sont souvent fidèles, attentifs ou nostalgiques.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de spectacle, où il faut savoir créer, maintenir et augmenter son public. Celui qui se fait isoler se rend seul, faible et vulnérable. Celui qui se fait entourer se rend accompagné, fort et invulnérable.
+Cette loi repose sur l’idée que le pouvoir est un jeu de spectacle, où il faut savoir créer, maintenir et augmenter son public. Celui qui se fait isoler se rend seul, faible et vulnérable. Celui qui se fait entourer se rend accompagné, fort et invulnérable.
 
-// Pour éviter ce piège, il faut savoir choisir les bonnes personnes, les bons moyens et les bons moments pour se faire entourer. Il faut aussi savoir adapter son entourage à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son entourage à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir les bonnes personnes, les bons moyens et les bons moments pour se faire entourer. Il faut aussi savoir adapter son entourage à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son entourage à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans discernement ni prudence.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer son charme, sa crédibilité ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans discernement ni prudence.
 
-// Un exemple d’application de cette loi est celui de Louis XIV, le célèbre roi de France. Il a su se faire entourer, soutenir et admirer par des personnes fidèles, dévouées ou enthousiastes en créant la cour de Versailles, où il réunissait les nobles, les artistes et les courtisans. Il a su aussi éviter de se faire isoler, critiquer ou mépriser en imposant son autorité, son prestige et sa magnificence. Il a su ainsi créer un spectacle permanent, grandiose et inoubliable.""",
-//   ),
-//   Article(
-//     title: "Soyez audacieux",
-//     content:
-//         """La loi 28 des 48 lois du pouvoir est “soyez audacieux”. Selon cette loi, il faut savoir se faire remarquer, respecter et craindre par des actions audacieuses, originales ou spectaculaires, tout en évitant de se faire oublier, mépriser ou ignorer par des actions timides, banales ou insignifiantes. Il faut éviter de se laisser dépasser, écraser ou dominer par les autres, qui sont souvent audacieux, originaux ou spectaculaires. Il faut plutôt se laisser admirer, suivre ou imiter par les autres, qui sont souvent timides, banales ou insignifiantes.
+Un exemple d’application de cette loi est celui de Louis XIV, le célèbre roi de France. Il a su se faire entourer, soutenir et admirer par des personnes fidèles, dévouées ou enthousiastes en créant la cour de Versailles, où il réunissait les nobles, les artistes et les courtisans. Il a su aussi éviter de se faire isoler, critiquer ou mépriser en imposant son autorité, son prestige et sa magnificence. Il a su ainsi créer un spectacle permanent, grandiose et inoubliable.""",
+  ),
+  Article(
+    title: "Soyez audacieux",
+    content:
+        """La loi 28 des 48 lois du pouvoir est “soyez audacieux”. Selon cette loi, il faut savoir se faire remarquer, respecter et craindre par des actions audacieuses, originales ou spectaculaires, tout en évitant de se faire oublier, mépriser ou ignorer par des actions timides, banales ou insignifiantes. Il faut éviter de se laisser dépasser, écraser ou dominer par les autres, qui sont souvent audacieux, originaux ou spectaculaires. Il faut plutôt se laisser admirer, suivre ou imiter par les autres, qui sont souvent timides, banales ou insignifiantes.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu d’action, où il faut savoir agir, réagir et proagir. Celui qui est trop timide se rend invisible, insignifiant et impuissant. Celui qui est audacieux se rend visible, important et puissant.
+Cette loi repose sur l’idée que le pouvoir est un jeu d’action, où il faut savoir agir, réagir et proagir. Celui qui est trop timide se rend invisible, insignifiant et impuissant. Celui qui est audacieux se rend visible, important et puissant.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour être audacieux. Il faut aussi savoir adapter son audace à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son audace à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour être audacieux. Il faut aussi savoir adapter son audace à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son audace à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans réflexion ni mesure.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans réflexion ni mesure.
 
-// Un exemple d’application de cette loi est celui de Martin Luther King, le célèbre leader du mouvement des droits civiques aux États-Unis. Il a su se faire remarquer, respecter et craindre par des actions audacieuses, originales ou spectaculaires comme le boycott des bus de Montgomery, la marche sur Washington ou le discours “I have a dream”. Il a su aussi éviter de se faire oublier, mépriser ou ignorer par des actions timides, banales ou insignifiantes comme le silence, la résignation ou la violence. Il a su ainsi créer un mouvement puissant, pacifique et historique.""",
-//   ),
-//   Article(
-//     title: "Planifiez jusqu’au bout",
-//     content:
-//         """La loi 29 des 48 lois du pouvoir est “planifiez jusqu’au bout”. Selon cette loi, il faut savoir se fixer un objectif précis, clair et important, et prévoir les étapes, les moyens et les conséquences nécessaires pour l’atteindre, tout en évitant de se laisser distraire, dévier ou arrêter par des obstacles, des imprévus ou des échecs. Il faut éviter de se laisser dépasser, écraser ou dominer par les autres, qui sont souvent plus organisés, plus préparés ou plus déterminés. Il faut plutôt se laisser réussir, économiser ou dominer par les autres, qui sont souvent moins organisés, moins préparés ou moins déterminés.
+Un exemple d’application de cette loi est celui de Martin Luther King, le célèbre leader du mouvement des droits civiques aux États-Unis. Il a su se faire remarquer, respecter et craindre par des actions audacieuses, originales ou spectaculaires comme le boycott des bus de Montgomery, la marche sur Washington ou le discours “I have a dream”. Il a su aussi éviter de se faire oublier, mépriser ou ignorer par des actions timides, banales ou insignifiantes comme le silence, la résignation ou la violence. Il a su ainsi créer un mouvement puissant, pacifique et historique.""",
+  ),
+  Article(
+    title: "Planifiez jusqu’au bout",
+    content:
+        """La loi 29 des 48 lois du pouvoir est “planifiez jusqu’au bout”. Selon cette loi, il faut savoir se fixer un objectif précis, clair et important, et prévoir les étapes, les moyens et les conséquences nécessaires pour l’atteindre, tout en évitant de se laisser distraire, dévier ou arrêter par des obstacles, des imprévus ou des échecs. Il faut éviter de se laisser dépasser, écraser ou dominer par les autres, qui sont souvent plus organisés, plus préparés ou plus déterminés. Il faut plutôt se laisser réussir, économiser ou dominer par les autres, qui sont souvent moins organisés, moins préparés ou moins déterminés.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de planification, où il faut savoir anticiper, organiser et contrôler. Celui qui ne planifie pas assez se rend imprudent, inefficace et vulnérable. Celui qui planifie jusqu’au bout se rend prudent, efficace et invulnérable.
+Cette loi repose sur l’idée que le pouvoir est un jeu de planification, où il faut savoir anticiper, organiser et contrôler. Celui qui ne planifie pas assez se rend imprudent, inefficace et vulnérable. Celui qui planifie jusqu’au bout se rend prudent, efficace et invulnérable.
 
-// Pour éviter ce piège, il faut savoir choisir le bon objectif, le bon moyen et le bon moment pour planifier. Il faut aussi savoir adapter son plan à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son plan à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon objectif, le bon moyen et le bon moment pour planifier. Il faut aussi savoir adapter son plan à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son plan à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans flexibilité ni adaptation.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans flexibilité ni adaptation.
 
-// Un exemple d’application de cette loi est celui de Napoléon Bonaparte, le célèbre général et empereur français. Il a su se fixer un objectif précis, clair et important : conquérir l’Europe. Il a su aussi prévoir les étapes, les moyens et les conséquences nécessaires pour l’atteindre : mobiliser ses troupes, choisir ses batailles, négocier ses alliances. Il a su ainsi créer un empire puissant, glorieux et redoutable.""",
-//   ),
-//   Article(
-//     title: "Ne faites pas de vagues, soyez insaisissable",
-//     content:
-//         """La loi 30 des 48 lois du pouvoir est “ne faites pas de vagues, soyez insaisissable”. Selon cette loi, il faut savoir se faire discret, mystérieux et indéfinissable, tout en évitant de se faire remarquer, démasquer ou enfermer. Il faut éviter de se laisser attirer, provoquer ou piéger par les autres, qui sont souvent curieux, malins ou perfides. Il faut plutôt se laisser désirer, admirer ou craindre par les autres, qui sont souvent naïfs, bêtes ou loyaux.
+Un exemple d’application de cette loi est celui de Napoléon Bonaparte, le célèbre général et empereur français. Il a su se fixer un objectif précis, clair et important : conquérir l’Europe. Il a su aussi prévoir les étapes, les moyens et les conséquences nécessaires pour l’atteindre : mobiliser ses troupes, choisir ses batailles, négocier ses alliances. Il a su ainsi créer un empire puissant, glorieux et redoutable.""",
+  ),
+  Article(
+    title: "Ne faites pas de vagues, soyez insaisissable",
+    content:
+        """La loi 30 des 48 lois du pouvoir est “ne faites pas de vagues, soyez insaisissable”. Selon cette loi, il faut savoir se faire discret, mystérieux et indéfinissable, tout en évitant de se faire remarquer, démasquer ou enfermer. Il faut éviter de se laisser attirer, provoquer ou piéger par les autres, qui sont souvent curieux, malins ou perfides. Il faut plutôt se laisser désirer, admirer ou craindre par les autres, qui sont souvent naïfs, bêtes ou loyaux.
 
-// Cette loi repose sur l’idée que le pouvoir est un jeu de mystère, où il faut savoir créer, maintenir et augmenter son intérêt. Celui qui fait trop de vagues se rend visible, prévisible et vulnérable. Celui qui ne fait pas de vagues se rend invisible, imprévisible et invulnérable.
+Cette loi repose sur l’idée que le pouvoir est un jeu de mystère, où il faut savoir créer, maintenir et augmenter son intérêt. Celui qui fait trop de vagues se rend visible, prévisible et vulnérable. Celui qui ne fait pas de vagues se rend invisible, imprévisible et invulnérable.
 
-// Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour ne pas faire de vagues. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son comportement à l’aune des effets, des réactions et des bénéfices.
+Pour éviter ce piège, il faut savoir choisir le bon moment, le bon lieu et le bon moyen pour ne pas faire de vagues. Il faut aussi savoir adapter son comportement à la situation, au public et à l’objectif. Il faut enfin savoir mesurer son comportement à l’aune des effets, des réactions et des bénéfices.
 
-// Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans logique ni mesure.
+Cette loi s’applique à tous les domaines où il y a une relation de pouvoir : le travail, la politique, la famille, l’école, etc. Elle peut être utile pour renforcer sa position, sa stratégie ou son influence. Elle peut aussi être dangereuse si elle est utilisée sans logique ni mesure.
 
-// Un exemple d’application de cette loi est celui de Leonardo DiCaprio, le célèbre acteur et producteur américain. Il a su se faire discret, mystérieux et indéfinissable en choisissant des rôles variés, complexes et surprenants. Il a su aussi éviter de se faire remarquer, démasquer ou enfermer en gardant une vie privée discrète, mystérieuse et indéfinissable. Il a su ainsi créer une image originale, intéressante et remarquable.""",
-  // ),
+Un exemple d’application de cette loi est celui de Leonardo DiCaprio, le célèbre acteur et producteur américain. Il a su se faire discret, mystérieux et indéfinissable en choisissant des rôles variés, complexes et surprenants. Il a su aussi éviter de se faire remarquer, démasquer ou enfermer en gardant une vie privée discrète, mystérieuse et indéfinissable. Il a su ainsi créer une image originale, intéressante et remarquable.""",
+  ),
   // Article(
   //   title: "",
   //   content: """""",
