@@ -385,34 +385,137 @@ Cette loi s’applique à tous les domaines où il y a une relation de pouvoir :
 
 Un exemple d’application de cette loi est celui de Leonardo DiCaprio, le célèbre acteur et producteur américain. Il a su se faire discret, mystérieux et indéfinissable en choisissant des rôles variés, complexes et surprenants. Il a su aussi éviter de se faire remarquer, démasquer ou enfermer en gardant une vie privée discrète, mystérieuse et indéfinissable. Il a su ainsi créer une image originale, intéressante et remarquable.""",
   ),
-  // Article(
-  //   title: "",
-  //   content: """""",
-  //   image: "https://picsum.photos/500/1000/",
-  // ),
-  // Article(
-  //   title: "",
-  //   content: """""",
-  //   image: "https://picsum.photos/500/1000/",
-  // ),
-  // Article(
-  //   title: "",
-  //   content: """""",
-  //   image: "https://picsum.photos/500/1000/",
-  // ),
-  // Article(
-  //   title: "",
-  //   content: """""",
-  //   image: "https://picsum.photos/500/1000/",
-  // ),
-  // Article(
-  //   title: "",
-  //   content: """""",
-  //   image: "https://picsum.photos/500/1000/",
-  // ),
-  // Article(
-  //   title: "",
-  //   content: """""",
-  //   image: "https://picsum.photos/500/1000/",
-  // ),
+  Article(
+    title: "Contrôlez les options: Jouez sur les alternatives",
+    content:
+        """La loi 31 des 48 lois du pouvoir est “Contrôlez les options: Jouez sur les alternatives”. Selon cette loi, il faut savoir donner l'illusion du choix tout en contrôlant les options disponibles. Cela permet de diriger les actions des autres vers un résultat prédéterminé, tout en leur laissant penser qu'ils agissent de leur propre volonté.
+
+  Cette loi repose sur l'idée que les gens se sentent plus à l'aise avec le choix, même si les options sont limitées et contrôlées. Il faut donc savoir manipuler les options présentées pour guider les décisions dans la direction souhaitée. En offrant des choix qui mènent tous au même résultat, on peut influencer subtilement les décisions des autres sans qu'ils se sentent forcés ou manipulés.
+
+  Pour appliquer cette loi avec efficacité, il est important de comprendre les désirs et motivations des personnes impliquées. Il faut aussi être capable d'anticiper les choix qu'elles feront et de préparer les options en conséquence. Il est essentiel de savoir présenter les options de manière à rendre le choix souhaité plus attrayant.
+
+  Un exemple d’application de cette loi peut être observé dans le domaine de la négociation, où un négociateur habile présentera plusieurs options qui semblent différentes à première vue, mais qui, en réalité, conduisent toutes à l'avantage du négociateur.""",
+  ),
+  Article(
+    title: "Loi 32: Jouez sur les fantasmes des gens",
+    content:
+        """La loi 32 des 48 lois du pouvoir dit "Jouez sur les fantasmes des gens". Elle explique que les gens sont souvent attirés par des récits qui échappent à leur quotidien. En jouant sur les fantasmes des gens, on peut créer des illusions captivantes et conduire les autres à suivre une vision ou un leader. Il est important de comprendre les rêves et les désirs des gens pour les envelopper dans un récit qui les engage profondément et leur donne une direction ou un espoir.
+
+    Cette loi est particulièrement efficace dans les domaines de la publicité, de la politique ou de tout autre domaine où il est nécessaire d'influencer les perceptions et les comportements.""",
+  ),
+  Article(
+    title: "Loi 33: Découvrez chaque homme à travers ses faiblesses",
+    content:
+        """La loi 33 des 48 lois du pouvoir est "Découvrez chaque homme à travers ses faiblesses". Cette loi suggère que pour exercer du pouvoir sur quelqu'un, il faut identifier et comprendre ses points faibles. En sachant ce qui rend une personne vulnérable, on peut adapter son approche pour gagner en influence ou pour se protéger de possibles manipulations.
+
+    Il faut être attentif aux détails, écouter activement et observer les comportements pour découvrir les insécurités et les besoins non satisfaits des autres.""",
+  ),
+  Article(
+    title:
+        "Loi 34: Soyez royal dans votre propre style: agissez comme un roi pour être traité comme tel",
+    content:
+        """La loi 34 des 48 lois du pouvoir est "Soyez royal dans votre propre style: agissez comme un roi pour être traité comme tel". L'idée centrale est que pour être respecté et traité avec une haute estime, on doit d'abord se comporter avec dignité et assurance. En adoptant une posture royale et en se tenant à des standards élevés, on peut inspirer les autres à nous traiter avec respect et admiration.
+
+    Cette loi est applicable dans la vie personnelle et professionnelle et encourage à se comporter de manière à ce que les autres reconnaissent notre valeur.""",
+  ),
+  Article(
+    title: "Maîtrisez l'art du timing",
+    content:
+        """La loi 35 des 48 lois du pouvoir est "Maîtrisez l'art du timing". Cette loi souligne l'importance du timing dans l'exercice du pouvoir. Il n'est pas seulement question de ce que vous faites, mais aussi de quand vous le faites. Agir au bon moment peut renforcer votre pouvoir, tandis qu'un mauvais timing peut le saper et révéler vos faiblesses.
+
+    Pour maîtriser l'art du timing, il est essentiel d'être attentif aux tendances, aux événements et aux humeurs pour choisir le moment le plus propice à l'action. Il faut savoir patienter jusqu'à ce que le moment soit juste et éviter la précipitation qui peut conduire à des erreurs coûteuses.
+
+    Un bon exemple de cette loi est l'action d'un politicien qui attend le moment où l'opinion publique lui est favorable pour annoncer une décision importante ou lancer une réforme. En choisissant le bon timing, il maximise ses chances de succès et renforce son image de leader avisé.""",
+  ),
+  Article(
+    title:
+        "Dédaignez ce que vous ne pouvez pas avoir: Ignorer est la meilleure revanche",
+    content:
+        """La loi 36 des 48 lois du pouvoir est "Dédaignez ce que vous ne pouvez pas avoir: Ignorer est la meilleure revanche". Cette loi suggère que montrer du dédain envers quelque chose que vous ne pouvez pas obtenir vous fait apparaître plus puissant. En ignorant une personne ou une chose, vous retirez de son pouvoir et de son influence sur vous.
+
+    L'application de cette loi réside dans la capacité à rester indifférent et à ne pas montrer de frustration face à l'inaccessible. C'est une forme d'autoprotection qui évite de perdre du temps et de l'énergie sur des objectifs inatteignables.
+
+    Un exemple notable est celui d'un individu qui choisit de ne pas répondre à des provocations ou des critiques, montrant ainsi qu'il est au-dessus de la situation et que ces attaques ne l'atteignent pas.""",
+  ),
+  Article(
+    title: "Créez des chaînes irrésistibles",
+    content:
+        """La loi 37 des 48 lois du pouvoir est "Créez des chaînes irrésistibles". Cette loi conseille de créer des obligations et des dépendances chez les autres pour les tenir liés à vous et à vos intérêts. En devenant la source de quelque chose que les gens désirent ou dont ils ont besoin, vous augmentez votre influence sur eux.
+
+    Pour mettre en œuvre cette loi, il est important de comprendre les besoins des autres, de devenir irremplaçable et de s'assurer que les chaînes sont si séduisantes que les autres ne voudront pas s'en détacher.
+
+    Un exemple de cette stratégie pourrait être un employeur qui offre des avantages uniques et précieux que ses employés ne pourraient trouver nulle part ailleurs, les encourageant ainsi à rester fidèles à l'entreprise.""",
+  ),
+  Article(
+    title:
+        "Soyez royal dans votre propre façon: Agissez comme un roi pour être traité comme tel",
+    content:
+        """La loi 38 des 48 lois du pouvoir est "Soyez royal dans votre propre façon: Agissez comme un roi pour être traité comme tel". Cette loi implique que la façon dont vous vous traitez dicte la façon dont les autres vous traiteront. Si vous vous valorisez et vous comportez avec dignité, vous commanderez le respect des autres.
+
+    Adopter une attitude royale implique de maintenir des normes élevées pour vous-même et pour votre entourage. Cela signifie aussi de ne pas avoir peur de demander ce que vous méritez et d'assumer des positions de leadership avec assurance.
+
+    Un exemple frappant pourrait être celui d'un dirigeant d'entreprise qui, par son comportement et son attitude, inspire respect et loyauté de la part de ses employés et de ses pairs.""",
+  ),
+  Article(
+    title: "Stir up waters to catch fish",
+    content:
+        """La loi 39 des 48 lois du pouvoir est "Stir up waters to catch fish". Cette loi suggère que le trouble et l'incertitude peuvent être utilisés à votre avantage. En perturbant l'ordre établi, vous pouvez forcer vos adversaires à réagir de manière impulsive et commettre des erreurs.
+
+    C'est en créant une situation confuse et en changeant constamment de tactique que vous pouvez prendre vos rivaux au dépourvu et les contrôler. Un exemple classique serait un stratège militaire qui utilise des manœuvres déroutantes pour désorienter l'ennemi et remporter la victoire.""",
+  ),
+  Article(
+    title: "Despise the Free Lunch",
+    content:
+        """La loi 40 des 48 lois du pouvoir est "Despise the Free Lunch". Elle conseille de se méfier des choses qui sont offertes gratuitement, car elles peuvent cacher des pièges ou des coûts cachés.
+
+    Cette loi incite à l'indépendance et à la prudence, suggérant que le paiement d'un prix équitable pour les services et les faveurs est préférable à l'acceptation de cadeaux qui pourraient vous endetter ou vous compromettre. Un exemple pourrait être un homme d'affaires qui refuse un accord apparemment avantageux, reconnaissant les obligations potentielles qui pourraient suivre.""",
+  ),
+  Article(
+    title: "Avoid Stepping into a Great Man's Shoes",
+    content:
+        """La loi 41 des 48 lois du pouvoir est "Avoid Stepping into a Great Man's Shoes". Elle met en garde contre les dangers d'essayer de succéder à une personne très respectée ou accomplie.
+
+    Cette loi suggère qu'il est préférable de forger votre propre chemin et de construire votre propre héritage, plutôt que de vivre dans l'ombre de vos prédécesseurs. Un exemple pourrait être un nouveau PDG qui choisit de réorienter l'entreprise plutôt que de continuer exactement là où son prédécesseur très estimé s'est arrêté.""",
+  ),
+  Article(
+    title: "Strike the Shepherd and the Sheep will Scatter",
+    content:
+        """La loi 42 des 48 lois du pouvoir est "Strike the Shepherd and the Sheep will Scatter". Cette loi illustre l'importance de neutraliser la figure d'autorité pour désorganiser un groupe.
+
+    En éliminant le leader ou la source d'unité d'un groupe, les membres restants peuvent devenir désorientés et moins efficaces. Un exemple pourrait être une équipe sportive qui perd son capitaine et, par conséquent, ne parvient pas à jouer de manière cohérente ou à gagner des matchs.""",
+  ),
+  Article(
+    title: "Work on the Hearts and Minds of Others",
+    content:
+        """La loi 43 des 48 lois du pouvoir est "Work on the Hearts and Minds of Others". Elle souligne l'importance de séduire et d'influencer les autres émotionnellement et intellectuellement.
+
+    En gagnant les cœurs et les esprits, vous pouvez les rendre favorables à votre cause et les amener à agir selon vos désirs. Un exemple pourrait être un politicien qui utilise son charisme et ses compétences en communication pour gagner le soutien du public et faire avancer son agenda politique.""",
+  ),
+  Article(
+    title: "Désarmez par l'effet de la Prédiction",
+    content:
+        """La loi 44 des 48 lois du pouvoir est "Désarmez par l'effet de la Prédiction". Cette loi suggère que vous pouvez gagner la confiance et désarmer les gens en prévoyant leurs comportements et leurs réactions. En donnant l'impression que vous comprenez et anticipez les préoccupations des autres, vous pouvez les amener à baisser leur garde et à être plus réceptifs à vos idées.""",
+  ),
+  Article(
+    title:
+        "Prêchez le besoin de changer, mais ne réformez jamais trop à la fois",
+    content:
+        """La loi 45 des 48 lois du pouvoir est "Prêchez le besoin de changer, mais ne réformez jamais trop à la fois". Elle met en lumière l'idée que, bien que le changement soit nécessaire, il doit être introduit progressivement pour éviter la résistance. Les changements radicaux peuvent effrayer et aliéner les gens, alors qu'une approche plus mesurée peut les amener à accepter et à adopter de nouvelles idées plus facilement.""",
+  ),
+  Article(
+    title: "Ne semblez jamais parfait",
+    content:
+        """La loi 46 des 48 lois du pouvoir est "Ne semblez jamais parfait". Selon cette loi, il est important de cacher ses imperfections et de ne pas évoquer la jalousie ou l'envie en paraissant sans défaut. Il est plus avantageux de montrer certaines faiblesses ou vulnérabilités pour paraître plus humain et accessible.""",
+  ),
+  Article(
+    title:
+        "Ne dépassez pas la marque que vous visez; en gagnant, sachez où vous arrêter",
+    content:
+        """La loi 47 des 48 lois du pouvoir est "Ne dépassez pas la marque que vous visez; en gagnant, sachez où vous arrêter". Cette loi conseille de maintenir un niveau de succès sans provoquer d'envie ou d'animosité en allant trop loin. Il est crucial de connaître ses limites et de s'arrêter avant que le succès ne se transforme en ressentiment ou en conflit.""",
+  ),
+  Article(
+    title: "Assumez la forme de l'eau",
+    content:
+        """La loi 48 des 48 lois du pouvoir est "Assumez la forme de l'eau". Inspirée par la philosophie de Bruce Lee, cette loi recommande d'être flexible et adaptable dans ses actions et sa pensée. Comme l'eau, vous devez être capable de prendre la forme de votre environnement et de surmonter les obstacles avec fluidité et souplesse.""",
+  ),
 ];
